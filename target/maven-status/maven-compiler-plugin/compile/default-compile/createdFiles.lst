@@ -1,0 +1,10 @@
+com\java\fundamentals\inventory\app\repositories\impl\StoreRepositoryImpl.class
+com\java\fundamentals\inventory\app\services\StoreServiceI.class
+com\java\fundamentals\inventory\app\entities\Product.class
+com\java\fundamentals\inventory\app\entities\Store.class
+com\java\fundamentals\inventory\app\InventoryApp.class
+com\java\fundamentals\inventory\app\entities\Company.class
+com\java\fundamentals\inventory\app\repositories\StoreRepositoryI.class
+com\java\fundamentals\inventory\app\repositories\impl\ProductRepositoryImpl.class
+com\java\fundamentals\inventory\app\services\impl\StoreServiceImpl.class
+com\java\fundamentals\inventory\app\repositories\impl\CompanyRepositoryImpl.class

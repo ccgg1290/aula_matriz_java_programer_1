@@ -1,0 +1,6 @@
+com.java.fundamentals.inventory.app
+com.java.fundamentals.inventory.app.entities
+com.java.fundamentals.inventory.app.repositories
+com.java.fundamentals.inventory.app.repositories.impl
+com.java.fundamentals.inventory.app.services
+com.java.fundamentals.inventory.app.services.impl
